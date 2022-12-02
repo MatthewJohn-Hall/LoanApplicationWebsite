@@ -20,7 +20,7 @@ public class MyStepdefs {
     private static LoginPage loginPage;
     public static WebDriver driver = driverFactory.getDriver();
 
-
+    private int aChangeToMyProject;
 
     /**------------------Constructor----------------*/
     public MyStepdefs() {
